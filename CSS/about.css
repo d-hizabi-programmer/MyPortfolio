@@ -1,4 +1,7 @@
 body {
-    background: url("../Images/bg-3.jpeg") no-repeat center fixed;
+    background-image: url("../Images/bg-3.jpeg");
+      background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
     background-color: rgba(0, 0, 0, 0.801);
   }

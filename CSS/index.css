@@ -34,14 +34,8 @@ body {
 #wrapper {
   width: 100%;
   height: max-content;
-  /* border: 2px solid red; */
-  /* background: url("../Images/bg-2.jpeg") no-repeat 100% center;
-              
-              background-attachment: scroll;
-  /* background-repeat: no-repeat;
-  background-size: scroll;
-  background-position: center; */ 
-  background-color: rgba(0, 0, 0, 0.8);
+ 
+  background-color: #000000cc;
 
 }
 /* navigation background */
