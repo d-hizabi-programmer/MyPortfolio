@@ -3,5 +3,11 @@ body {
       background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    background-color: rgba(0, 0, 0, 0.801);
+    background-color: rgba(0, 0, 0, 0.9);
+  }
+  .w-45{
+    width: 45%;
+  }
+  .table-color{
+    color: transparent;
   }
