@@ -22,19 +22,25 @@
 
 /* body selector */
 body {
+  width:auto;
   height:max-content;
   background: url("../Images/bg-2.jpeg") no-repeat center fixed;
-  /* background-repeat: no-repeat;
-  background-size: 100%;
-  background-position: center; */
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: fixed;
   background-color: rgba(0, 0, 0, 0.801);
+
+  position:absolute;
+  top:0px;
+  right:0px;
+  bottom:0px;
+  left:0px;
 }
 
 /* wrapper id */
 #wrapper {
   width: 100%;
-  height: max-content;
- 
+  /* height: auto; */
   background-color: rgba(0, 0, 0, 0.85);
 
 }
@@ -64,7 +70,7 @@ nav{
   box-shadow: 0 5px 10px rgba(255, 255, 255, 0.6), 0 3px 3px rgba(255, 255, 255, 0.6);      
 }
 #home{
-  height: 75vh;
+  height: 80vh;
 }
 
 
